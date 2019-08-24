@@ -1,2 +1,2 @@
-# python-notebook
+# Python Notebook
 Notebook of all data science projects
